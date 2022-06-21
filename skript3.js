@@ -1,0 +1,1 @@
+alert('I started studying JS');
