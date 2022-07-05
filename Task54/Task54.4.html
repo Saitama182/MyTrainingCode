@@ -1,0 +1,32 @@
+<! Пусть в переменной num хранится число. Если это число не попадает в диапазон от 10 до 99, то выведите на экран
+    сообщение об этом. Если же число попадает в указанный диапазон, то найдите сумму цифр этого числа. Если полученная
+    сумма меньше или равна 9, то выведите на экран сообщение о том, что сумма цифр однозначна, в противном случае
+    выведите сообщение о том, что сумма цифр двузначна.>
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <script>
+            let num = 17;
+            let str = String(num);
+            if (num > 9 && num < 100) {
+                if ((Number(str[0]) + Number(str[1])) < 10) {
+                    alert('сумма однозначная')
+                } else {
+                    alert('сумма двухзначная ')
+                }
+            } else {
+                alert('Не попадает в диапазон')
+            }
+        </script>
+    </head>
+
+    <body>
+
+    </body>
+
+    </html>
