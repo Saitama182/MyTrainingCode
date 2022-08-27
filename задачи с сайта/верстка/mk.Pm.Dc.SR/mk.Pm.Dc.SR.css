@@ -1,0 +1,21 @@
+/*  №1 */
+#elem1{
+    width: 300px;
+    height: 100px;
+    border: 2px solid green;
+    border-radius: 10px 40px 50px 60px;
+}
+/*  №2 */
+#elem2{
+    width: 300px;
+    height: 100px;
+    border: 2px solid green;
+    border-radius: 10px  50px ;
+}
+/*  №3 */
+#elem3{
+    width: 300px;
+    height: 100px;
+    border: 2px solid green;
+    border-radius: 5px  30px 20px ;
+}

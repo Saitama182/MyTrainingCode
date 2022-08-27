@@ -1,0 +1,14 @@
+/* №1 */
+ol#elem1{
+    list-style-type: lower-alpha;
+}
+
+/* №2 */
+ol#elem2{
+    list-style-type:lower-greek;
+}
+
+/* №3 */
+ol#elem3{
+    list-style-type:upper-alpha;
+}

@@ -1,0 +1,28 @@
+/* №1 */
+
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+
+/* №2 */
+
+.right {
+    text-align: center;
+}
+
+.font {
+    font-family: Trebuchet;
+}
+
+.underline {
+	text-decoration: underline;
+}

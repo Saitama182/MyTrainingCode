@@ -1,0 +1,51 @@
+/* №1 */
+
+
+h1 {
+    text-align: right;
+}
+
+/* №2 */
+
+
+
+h2 {
+    text-align: right;
+}
+
+/* №3 */
+
+table {
+    width: 500px;
+}
+
+/* №4  */
+
+th {
+    text-align: left;
+}
+
+/* №5 */
+
+td {
+    text-align: center;
+}
+
+/* №6 */
+
+p {
+    width: 300px;
+}
+
+/* №7 */
+
+p {
+    text-align: justify;
+}
+
+/* №8 */
+
+h2 {
+    text-align: center;
+    width: 300px;
+}

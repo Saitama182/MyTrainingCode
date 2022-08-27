@@ -1,0 +1,22 @@
+/* №1 */
+#elem h2{
+    color: blueviolet;
+}
+
+/* №2 */
+
+#elem .text {
+    color:rgb(0, 255, 13);
+}
+
+/* №3 */
+
+#elem1 p.text {
+    color:brown;
+}
+
+/* №4 */
+
+#elem2 li.text {
+    color:darkgoldenrod;
+}

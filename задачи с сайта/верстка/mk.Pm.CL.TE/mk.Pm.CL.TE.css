@@ -1,0 +1,32 @@
+/* №1 */
+
+h1 {
+    font-weight: normal;
+    font-size: 20px;
+    color:  red;
+    text-decoration: overline;
+}
+
+/* №2 */
+
+h2 {
+    font-weight: normal;
+    font-size: 20px;
+    color: green;
+    text-decoration: line-through;
+}
+
+/* №3 */
+
+p {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+/* №3 */
+
+a {
+    font-size: 20px;
+    color:red;
+    text-decoration: none;
+}

@@ -1,0 +1,101 @@
+/* №1 */
+
+div p {
+    color:aliceblue;
+}
+
+/* №2 */
+
+div h2 {
+    color:aqua;
+}
+
+/* №3 */
+
+#block p {
+    color:aquamarine;
+}
+
+/* №4 */
+
+#block h2 {
+    color:azure;
+}
+
+/* №5 */
+
+.bbb {
+    color:bisque;
+}
+
+/* №6 */
+
+#block .bbb {
+    color:black;
+}
+
+/* №7 */
+
+p.bbb{
+    color:blanchedalmond;
+}
+
+/* №8 */
+
+h2.bbb {
+    color:burlywood;
+}
+
+/* №9 */
+
+#block p.bbb{
+    color:chartreuse;
+}
+
+/* №10 */
+
+.bbb , .xxx {
+   color:cornflowerblue;
+}
+
+/* №11 */
+
+p.bbb , h2.xxx {
+    color:cyan;
+}
+
+/* №12 */
+
+#block p.bbb , #block p.xxx {
+    color:darkgoldenrod;
+}
+
+/* №13 */
+
+.fff {
+ color:darkmagenta;
+}
+
+/* №14 */
+
+.fff p {
+    color:darkseagreen;
+}
+
+/* №15 */
+
+p.fff{
+    color:gold;
+}
+
+/* №16 */
+
+.fff .bbb {
+ color:lavender;
+}
+
+/* №17 */
+
+.fff h2.bbb{
+    color:blue;
+}

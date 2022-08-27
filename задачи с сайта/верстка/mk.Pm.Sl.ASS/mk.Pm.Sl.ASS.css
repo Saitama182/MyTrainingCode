@@ -1,0 +1,10 @@
+/* №1 */
+#elem+li {
+    color:brown;
+}
+
+/* №2 */
+
+.elem+li {
+    color:blue;
+}

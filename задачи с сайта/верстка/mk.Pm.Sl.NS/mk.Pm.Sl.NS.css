@@ -1,0 +1,19 @@
+/* №1 */
+
+.aaa li:not(.elem){
+    color: red;
+}
+
+/* №2 */
+
+
+.bbb li:not(:first-child){
+    color:red;
+}
+
+/* №3 */
+
+.ccc li:not(:first-child, :last-child){
+    color:red;
+}
+

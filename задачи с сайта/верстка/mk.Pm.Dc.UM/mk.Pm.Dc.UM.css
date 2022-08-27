@@ -1,0 +1,18 @@
+/* №1 */
+
+ul#elem1{
+    list-style-type:square;
+}
+
+/* №2 */
+
+ul#elem2{
+    list-style-type:circle;
+}
+
+/* №3 */
+
+ul#elem3{
+    list-style-type:none;
+}
+
