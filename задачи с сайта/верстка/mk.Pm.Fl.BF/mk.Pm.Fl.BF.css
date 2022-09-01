@@ -1,0 +1,15 @@
+.parent {
+    border: 1px black solid;
+    width: 500px;
+    padding: 30px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.child {
+    border: 1px green solid;
+    width: 100px;
+    height: 50px;
+    float: right;
+    margin: 10px 0 10px 10px;
+}

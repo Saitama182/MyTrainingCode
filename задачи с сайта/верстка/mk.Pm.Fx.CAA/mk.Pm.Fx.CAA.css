@@ -1,0 +1,139 @@
+/* №1 */
+.parent1 {
+    border: 1px red solid;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: flex-end;
+   
+}
+
+.child1 {
+    width: 100px;
+    height: 50px;
+    border: 1px green solid;
+    
+}
+
+/* №2 */
+.parent2 {
+    border: 1px red solid;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    align-items:flex-end
+ 
+}
+
+.child2 {
+    width: 100px;
+    height: 50px;
+    border: 1px green solid;
+    
+}
+
+/* №3 */
+.parent3 {
+    border: 1px red solid;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items:flex-start
+  
+}
+
+.child3 {
+    width: 100px;
+    height: 50px;
+    border: 1px green solid;
+    
+}
+
+/* №4 */
+.parent4 {
+    border: 1px red solid;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    align-items:flex-end
+   
+}
+
+.child4 {
+    width: 100px;
+    height: 50px;
+    border: 1px green solid;
+    
+}
+
+/* №5 */
+.parent5 {
+    border: 1px red solid;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items:flex-end
+  
+}
+
+.child5 {
+    width: 100px;
+    height: 50px;
+    border: 1px green solid;
+    
+}
+
+/* №6 */
+.parent6 {
+    border: 1px red solid;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items:flex-start;
+  
+}
+
+.child6 {
+    width: 100px;
+    height: 50px;
+    border: 1px green solid;
+    
+}
+
+/* №7 */
+.parent7 {
+    border: 1px red solid;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:flex-end;
+  
+}
+
+.child7 {
+    width: 100px;
+    height: 50px;
+    border: 1px green solid;
+    
+}

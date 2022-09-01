@@ -1,0 +1,24 @@
+/* №1 */
+
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+}
+
+/* №2 */
+
+.parent1 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+
+/* №3 */
+
+.parent2 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+    padding-right: 30px;
+}

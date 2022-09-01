@@ -1,0 +1,111 @@
+/* №1 */
+.parent {
+    border: 1px black solid;
+    width: 100%;
+}
+
+.child1 {
+    float: left;
+    border: 1px green solid;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+.child2 {
+    float: left;
+    border: 1px green solid;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+.child3 {
+    float: left;
+    border: 1px green solid;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+.child4 {
+    float: left;
+    border: 1px green solid;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+.child5 {
+    float: left;
+    border: 1px green solid;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+
+.clearfix {
+    clear: both;
+}
+
+/* №2 */
+.parent2 {
+    border: 1px black solid;
+    width: 100%;
+}
+
+.child6 {
+    float: right;
+    border: 1px green solid;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+.child7 {
+    float: right;
+    border: 1px green solid;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+.child8 {
+    float: right;
+    border: 1px green solid;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+.child9 {
+    float: right;
+    border: 1px green solid;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+.child10 {
+    float: right;
+    border: 1px green solid;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+
+.clearfix {
+    clear: both;
+}

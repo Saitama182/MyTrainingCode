@@ -1,0 +1,16 @@
+p {
+    border: 1px black solid;
+    width: 500px;
+    padding: 20px;
+    text-align: justify;
+}
+
+#pic1 {
+    float: left;
+    margin-right: 20px;
+}
+
+#pic2 {
+    float: right;
+    margin: 20px 0 20px 20px;
+    }

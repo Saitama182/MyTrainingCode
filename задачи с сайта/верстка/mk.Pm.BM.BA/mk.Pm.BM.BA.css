@@ -1,0 +1,26 @@
+.n1 {
+    height: 600px;
+    width: 800px;
+    border: 1px solid red;
+}
+
+.n2 {
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+    margin: 25px auto;
+
+}
+.n3 {
+    height: 150px;
+    width: 200px;
+    border: 1px solid green;
+    margin: 25px auto;
+}
+
+.n4 {
+    height: 200px;
+    width: 250px;
+    border: 1px solid green;
+    margin: 25px auto;
+}

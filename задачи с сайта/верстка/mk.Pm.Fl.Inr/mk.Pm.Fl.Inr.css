@@ -1,0 +1,12 @@
+div {
+    text-align: justify;
+    width: 400px;
+}
+
+#pic1 { 
+    float: left;
+}
+
+#pic2 {
+    float: right;
+}

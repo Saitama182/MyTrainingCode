@@ -1,0 +1,78 @@
+/* №1 */
+
+.parent1 {
+	width: 500px;
+	height: 200px;
+	border: 1px solid red;
+    display: flex;
+}
+.child1 {
+	width: 80px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/* №2 */
+
+.parent2 {
+	width: 500px;
+	border: 1px solid red;
+    display: flex;
+}
+.child2 {
+	width: 80px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/* №3 */
+
+.parent3 {
+	border: 1px solid red;
+    display: flex;
+}
+.child3 {
+	width: 80px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/* №4 */
+
+.parent4 {
+	border: 1px solid red;
+    display: inline-flex;
+    
+}
+.child4 {
+	width: 80px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/* №5 */
+
+.parent5 {
+	border: 1px solid red;
+    display: inline-flex;
+    padding: 20px;
+}
+.child5 {
+	width: 80px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/* №6 */
+
+.parent6 {
+	border: 1px solid red;
+    display: inline-flex;
+}
+.child6 {
+	width: 80px;
+	height: 50px;
+	border: 1px solid green;
+    margin: 20px;
+}
+
