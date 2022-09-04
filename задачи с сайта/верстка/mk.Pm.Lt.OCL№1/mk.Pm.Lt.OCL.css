@@ -1,0 +1,45 @@
+/* №1 */
+#wrapper {
+    border: 1px solid black;
+    width: 800px;
+    margin: 50px auto;
+}
+
+#menu {
+    display: flex;
+    background-color: black;
+}
+
+#menu a {
+    text-decoration: none;
+    font: bold 20px Arial;
+    color: aliceblue;
+    padding: 15px 25px;
+}
+
+#menu a:hover , #menu a.active {
+    background-color:aliceblue;
+    color:black;
+}
+
+#content h1 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#content p {
+    text-align: justify;
+    padding: 0 15px;
+    font: 18px Arial;
+}
+
+#content a.lnk {
+    color: blue;
+    text-decoration: none;
+}
+
+#content a.lnk:hover {
+    color:green;
+    text-decoration: underline;
+}

@@ -1,0 +1,37 @@
+#wrapper {
+	width: 1000px;
+	margin: 30px auto;
+	border: 1px solid black;
+}
+
+#header {
+	height: 200px;
+	border: 1px solid black;
+    padding: 20px;
+}
+#footer {
+	height: 200px;
+	border: 1px solid black;
+    padding: 20px;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+#container {
+	display: flex;
+}
+
+#content {
+	width: 780px;
+    height: 700px;
+    padding: 20px;
+	border: 1px solid black;
+}
+#sidebar {
+	width: 200px;
+    margin-right: 20px;
+    padding: 20px;
+	border: 1px solid black;
+}

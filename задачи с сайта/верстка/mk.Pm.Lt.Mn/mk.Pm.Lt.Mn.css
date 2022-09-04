@@ -1,0 +1,92 @@
+/* №1 */ 
+
+#menu {
+    display: flex;
+}
+
+#menu a {
+    border: 1px green solid;
+    padding: 10px;
+    margin-left: 20px;
+    background-color: green;
+    font: arial 15px;
+    text-decoration: none;
+    color: aliceblue;
+}
+#menu a:hover, #menu a.active {
+    background-color:aliceblue;
+    color:green;
+}
+
+/* №2 */  
+#menu2 {
+    display: flex;
+    flex-direction: column;
+   
+   
+
+}
+
+#menu2 a.Task2 {
+    margin: 20px;
+    font-size: 30px;
+    padding: 10px;
+    
+    border: 1px green solid;
+    width: 200px;
+    height: 50px;
+    background-color:green;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+#menu2 a.active2 {
+    margin: 20px;
+    font-size: 30px;
+    padding: 10px;
+    border: 1px green solid;
+    width: 200px;
+    height: 50px;
+    background-color:green;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+
+#menu2 a.Task2:hover , #menu2 a.active2 {
+    background-color:aliceblue;
+    color:green;
+} 
+
+/* №3 */
+#menu3 {
+    display: flex;
+}
+
+#menu3 a.Task3 {
+    border: 1px green solid;
+    padding: 10px;
+    background-color: green;
+    font: arial 20px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+#menu3 a.active3 {
+    font: arial 20px;
+    padding: 10px;
+    border: 1px green solid;
+    text-decoration: none;
+    background-color: rgb(13, 61, 13);
+    color:aliceblue;
+}
+
+#menu3 .clear {
+    border: 1px green solid;
+    width: 100px;
+    background-color:green;
+}
+
+#menu3 a.Task3:hover , #menu3 a.active3 {
+    background-color: rgb(13, 61, 13);
+}
